@@ -1,12 +1,4 @@
-pyTelegramBotAPI==4.19.0
-psutil==5.9.8
-Flask==3.0.2
-requests==2.31.0
-beautifulsoup4==4.12.3
-Pillow==10.3.0  # Python 3.13 के लिए अपडेट किया गया
-opencv-python-headless==4.9.0.80  # लाइटवेट वर्जन
-python-telegram-bot==20.7
-aiogram==3.2.0
-pyrogram==2.0.106
-telethon==1.34.0
-tgcrypto==1.2.5
+Flask
+pyTelegramBotAPI
+psutil
+requests
