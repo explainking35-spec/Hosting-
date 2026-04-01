@@ -46,9 +46,9 @@ def keep_alive():
 
 # --- Configuration ---
 TOKEN = '7204726959:AAEqsUysLmeteIvQ9fRZ0-k7TV8js336HGs' # Replace with your actual token
-OWNER_ID = 7278872449 # Replace with your Owner ID
-ADMIN_ID = 7278872449 # Replace with your Admin ID (can be same as Owner)
-YOUR_USERNAME = '@Z4X_Silent_Boy1' # Replace with your Telegram username (without the @)
+OWNER_ID = 8129564406 # Replace with your Owner ID
+ADMIN_ID = 8209073816 # Replace with your Admin ID (can be same as Owner)
+YOUR_USERNAME = '@Z4X_Silent_Boy' # Replace with your Telegram username (without the @)
 UPDATE_CHANNEL = '@DigitalWorld1318' # Replace with your update channel link
 
 # Folder setup - using absolute paths
